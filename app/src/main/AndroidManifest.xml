@@ -18,7 +18,7 @@
         </activity>
         <meta-data
             android:name="pointpub_app_id"
-            android:value="APP_17252608513727138" />
+            android:value="APP_17259408657597018" />
     </application>
 
 </manifest>
